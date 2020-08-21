@@ -13,7 +13,7 @@ Then You can run each python file.
 Find RabbitMQ scheme attached.
 
 
-## Laboratorium assignment (Polish)
+## Lab assignment (Polish)
 
 Zadanie polega na implementacji, z użyciem RabbitMQ, systemu pośredniczącego pomiędzy agencjami kosmicznymi (Agencja), a dostawcami usług transportu kosmicznego (Przewoźnik). Agencje kosmiczne zlecają wykonanie trzech typów usług: przewóz osób, przewóz ładunku, umieszczenie satelity na orbicie.
 
